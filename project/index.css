@@ -1,0 +1,66 @@
+ .nav-Bar{  
+   background-image: url(../banner-bg.png);
+   display: inline-block;  
+   width:1150px;
+   background-size: cover;
+   padding: 20px;
+   margin-left: 10px;
+
+
+
+ } 
+ .header{
+   width:900px;
+   height:600px;
+ }
+ .side-heading{
+   font-size:xx-large;
+   color: white; 
+   transform: translate(60px);
+ } 
+#h1{
+   font-size:60px;
+   margin: 60px 0px 0px 0px ;
+   display: inline-block;
+}
+#h5{
+   font-size: 90px;
+   margin: 2px 0px 0px 0px;
+   display: inline-block;
+}
+button{
+   border-radius:75px ;
+   background-color: brown;
+   padding: 5px;  
+   position: relative;
+   bottom: 420px;
+}
+p{
+   font-size:large;
+   font-size:20px;
+   display: inline-block;
+   margin-top: 50px;
+}
+.img2{ 
+   width: 410px;
+   height: 500px;
+   position: relative;
+   left: 410px;
+   bottom: 280px;
+ } 
+ #a1,#a2,#a3,#a4,#a5,#a6,#a7{ 
+   padding-left: 10px;
+   text-decoration: none;
+   color: white;
+   margin: 10px;
+   padding: 20px;
+ }
+ #a1{
+   font-size: 20px;
+    padding-left: 30px;
+    /* margin-left: 40px; */
+ }
+ #a2{
+   color: red;
+   margin-left: 20px;
+ }
