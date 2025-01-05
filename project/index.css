@@ -133,3 +133,43 @@ input{
  #p-1{
   padding-left: 10px;
  }
+ /* ------------------------------------------------- */
+.left-content-52{
+  width:550px;
+  height: 550px;
+} 
+#bten-52{
+  margin: 15px;
+  border-radius: 75px;
+  border-style: none;
+  padding: 5px;
+  background-color: aqua;
+}
+.right-content-52{
+  margin: 20px;
+  padding: 30px;
+  width:450px ;
+  height:auto ;
+  color:black;
+  background-color: rgb(215, 205, 193);
+   
+} 
+.content-52{
+  display: flex;  
+  margin-left: 80px;
+  margin-top: 30px;
+}
+ .heading-51{
+  font-size: 40px;
+  text-align: center;
+  margin-top: 40px;
+ } 
+ /* .para-51{
+  text-align: center;
+ } */
+ /* .upper-part-51{
+  width:500px;
+  height: 10px;
+ } */
+ 
+  
