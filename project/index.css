@@ -1,5 +1,5 @@
 *{
-  margin: 0px 0px 0px 0px;
+  margin: 0px;
 }
  #nav-bar{
   text-decoration: crimson;
@@ -139,10 +139,10 @@ input{
   height: 550px;
 } 
 #bten-52{
-  margin: 15px;
+  margin: 10px;
   border-radius: 75px;
   border-style: none;
-  padding: 5px;
+  padding: 8px;
   background-color: aqua;
 }
 .right-content-52{
@@ -164,12 +164,80 @@ input{
   text-align: center;
   margin-top: 40px;
  } 
- /* .para-51{
-  text-align: center;
- } */
- /* .upper-part-51{
-  width:500px;
-  height: 10px;
- } */
- 
+ .left-field{
+  background-color: rgb(13, 227, 216);
+  height: 450px;
+  width:auto;
+   align-content: center;
+   justify-items: center;
   
+ }
+ #left-input{
+  background-image: url( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtXuvj8SwCkr8kgPI0gELn1OIuDJMFzJRmcg&s);
+  border: none;
+  width: 150px;
+  border-radius: 0%; 
+ padding-left: 30px;
+ margin: 30px;
+ }
+ /* #right-input{
+  background-image: url( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtXuvj8SwCkr8kgPI0gELn1OIuDJMFzJRmcg&s);
+  border: none;
+  width: 230px;
+  border
+ } */
+  #text-area2{
+    width: 400px;
+    height: 100px;
+    padding: 10px; 
+     
+  }
+  .bottom-page{
+    display: flex;
+    width: auto;
+    margin-left: 40px;
+    margin-top: 30px;
+    margin-bottom:40px ;
+
+  } 
+  #img-f1{
+    width: 40px;
+    height: 30px;
+    background-color: dodgerblue;
+    margin: 10px;
+  }
+  #img-f2{
+    width: 40px;
+    height: 30px;
+    background-color: dodgerblue;
+    margin: 10px;
+  }
+  #img-f3{
+    margin: 10px;
+    width: 40px;
+    height: 30px;
+    background-color: dodgerblue;
+  }
+  #img-f4{
+    width: 30px;
+    height: 25px;
+    background-color: dodgerblue;
+    margin: 10px;
+  }
+  #img-f5{
+    width: 40px;
+    height: 35px;
+    background-color: dodgerblue;
+    margin: 10px;
+  }
+  .footer{
+    width: auto;
+    height: 30px;
+    display: inline-flex; 
+    margin: 30px;
+    padding: 10px;
+  }
+  #inner-footer2{
+    margin-left: 250px;
+     
+  }
